@@ -1,0 +1,6 @@
+# daemon
+daemon/echovendd.exe
+daemon/data*/
+data*/
+
+# frontend (web/.gitignore covers node_modules etc.)
