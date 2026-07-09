@@ -7,7 +7,7 @@ require (
 	github.com/flynn/noise v1.1.0
 	github.com/mmcloughlin/geohash v0.10.0
 	github.com/nbd-wtf/go-nostr v0.52.3
-	golang.org/x/net v0.37.0
+	golang.org/x/net v0.54.0
 	tinygo.org/x/bluetooth v0.15.0
 )
 
@@ -43,7 +43,7 @@ require (
 	github.com/tinygo-org/pio v0.3.0 // indirect
 	github.com/twitchyliquid64/golang-asm v0.15.1 // indirect
 	golang.org/x/arch v0.15.0 // indirect
-	golang.org/x/crypto v0.36.0 // indirect
+	golang.org/x/crypto v0.52.0 // indirect
 	golang.org/x/exp v0.0.0-20250305212735-054e65f0b394 // indirect
-	golang.org/x/sys v0.31.0 // indirect
+	golang.org/x/sys v0.45.0 // indirect
 )
