@@ -1,6 +1,18 @@
-# daemon
-daemon/echovendd.exe
+# Claude Code (local only — do not publish)
+.claude/
+
+# Go daemon: build output + runtime state (contains private keys)
+daemon/*.exe
 daemon/data*/
 data*/
 
-# frontend (web/.gitignore covers node_modules etc.)
+# Node / Next.js (web/.gitignore also covers these)
+node_modules/
+.next/
+out/
+build/
+
+# logs / OS cruft
+*.log
+.DS_Store
+Thumbs.db
