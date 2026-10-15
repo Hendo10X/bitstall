@@ -7,7 +7,7 @@ require (
 	github.com/flynn/noise v1.1.0
 	github.com/mmcloughlin/geohash v0.10.0
 	github.com/nbd-wtf/go-nostr v0.52.3
-	golang.org/x/net v0.54.0
+	golang.org/x/net v0.55.0
 	tinygo.org/x/bluetooth v0.15.0
 )
 
